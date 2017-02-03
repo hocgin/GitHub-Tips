@@ -94,3 +94,4 @@ fix [ISSUES URL]
 - issue中输入冒号 : 添加表情  [GitHub 表情大全](http://www.webpagefx.com/tools/emoji-cheat-sheet/˚˚)
 - 任意界面，shift + ？显示快捷键
 - issue中选中文字，R键快速引用
+- 各种[badge](http://shields.io/)
